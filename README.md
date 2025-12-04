@@ -13,7 +13,7 @@ Static website for Vibrant Vibes — event-planning and booking site.
 
 ## How to run locally
 
-Just open `index.html` in your browser (or run a simple static server, e.g. `python3 -m http.server`).  
+Just open `index.html` in your browser.  
 
 ## Deployment
 
