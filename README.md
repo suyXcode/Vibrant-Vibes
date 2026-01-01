@@ -19,3 +19,11 @@ Just open `index.html` in your browser.
 
 This repository can be deployed via GitHub Pages or Netlify.  
 
+---
+
+## 👨‍💻 Author
+
+👤 **Suyash Singh**  
+🔗 [Github](https://github.com/suyXcode)  
+💼 [Linkedin](https://www.linkedin.com/in/suyxcode/)  
+🌐 [Portfolio](https://suyxcode.netlify.app)
